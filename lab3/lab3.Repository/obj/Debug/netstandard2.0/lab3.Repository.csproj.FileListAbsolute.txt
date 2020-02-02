@@ -1,0 +1,8 @@
+D:\megna\lab3\lab3.Repository\bin\Debug\netstandard2.0\lab3.Repository.deps.json
+D:\megna\lab3\lab3.Repository\bin\Debug\netstandard2.0\lab3.Repository.dll
+D:\megna\lab3\lab3.Repository\bin\Debug\netstandard2.0\lab3.Repository.pdb
+D:\megna\lab3\lab3.Repository\obj\Debug\netstandard2.0\lab3.Repository.csprojAssemblyReference.cache
+D:\megna\lab3\lab3.Repository\obj\Debug\netstandard2.0\lab3.Repository.AssemblyInfoInputs.cache
+D:\megna\lab3\lab3.Repository\obj\Debug\netstandard2.0\lab3.Repository.AssemblyInfo.cs
+D:\megna\lab3\lab3.Repository\obj\Debug\netstandard2.0\lab3.Repository.dll
+D:\megna\lab3\lab3.Repository\obj\Debug\netstandard2.0\lab3.Repository.pdb

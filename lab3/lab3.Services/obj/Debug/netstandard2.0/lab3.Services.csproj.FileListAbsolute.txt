@@ -1,0 +1,11 @@
+D:\megna\lab3\lab3.Services\bin\Debug\netstandard2.0\lab3.Services.deps.json
+D:\megna\lab3\lab3.Services\bin\Debug\netstandard2.0\lab3.Services.dll
+D:\megna\lab3\lab3.Services\bin\Debug\netstandard2.0\lab3.Services.pdb
+D:\megna\lab3\lab3.Services\bin\Debug\netstandard2.0\lab3.Repository.dll
+D:\megna\lab3\lab3.Services\bin\Debug\netstandard2.0\lab3.Repository.pdb
+D:\megna\lab3\lab3.Services\obj\Debug\netstandard2.0\lab3.Services.csprojAssemblyReference.cache
+D:\megna\lab3\lab3.Services\obj\Debug\netstandard2.0\lab3.Services.AssemblyInfoInputs.cache
+D:\megna\lab3\lab3.Services\obj\Debug\netstandard2.0\lab3.Services.AssemblyInfo.cs
+D:\megna\lab3\lab3.Services\obj\Debug\netstandard2.0\lab3.Services.csproj.CopyComplete
+D:\megna\lab3\lab3.Services\obj\Debug\netstandard2.0\lab3.Services.dll
+D:\megna\lab3\lab3.Services\obj\Debug\netstandard2.0\lab3.Services.pdb
