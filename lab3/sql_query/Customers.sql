@@ -23,3 +23,4 @@ INSERT INTO Customers
 VALUES
     ('Ram Bahadur', 'Thapa', 'Kathmandu', '0123456789', '9876543210', '2019-01-01 00:00:00.000', 1, 'sysuser', '2019-01-01 10:00:00.000', 'sysuser', '2019-01-01 11:00:00.000'
 );
+
