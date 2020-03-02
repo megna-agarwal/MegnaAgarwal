@@ -1,8 +1,10 @@
 using System;
+using System.ComponentModel.DataAnnotations;
 namespace lab3.Repository.Domain
 {
     public class Ref_Staff_Role
     {
+        [Key]
         public int Staff_Role_Code { get; set; }
         public string Staff_Role_Description { get; set; }
         public bool IsActive { get; set; }

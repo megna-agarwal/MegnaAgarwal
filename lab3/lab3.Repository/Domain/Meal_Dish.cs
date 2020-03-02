@@ -1,8 +1,10 @@
 using System;
+using System.ComponentModel.DataAnnotations;
 namespace lab3.Repository.Domain
 {
     public class Meal_Dish
     {
+        [Key]
         public int Meal_Id { get; set; }
         public int Menu_Item_id { get; set; }
         public int Quantity { get; set; }
