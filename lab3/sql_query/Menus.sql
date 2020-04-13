@@ -19,5 +19,5 @@ INSERT INTO Menus
     Menu_Name, Available_Date_From, Available_Date_To, Other_Details, CreatedBy, CreatedOn, UpdatedBy, UpdatedOn
     )
 VALUES
-    ('Vegetarian Menu', getdate(), GETDATE(), 'Pure Vegetarian', 'sysuser', GETDATE(), 'sysuser', GETDATE()
-)
+    ('Vegetarian Menu', '2019-01-02 00:00:00.000', '2019-01-08 00:00:00.000', 'Pure Vegetarian', 'sysuser', '2019-01-02 00:00:00.000', 'sysuser', '2019-01-02 00:00:00.000'
+);
