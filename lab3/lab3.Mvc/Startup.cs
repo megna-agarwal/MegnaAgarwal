@@ -34,6 +34,10 @@ namespace lab3.Mvc
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddControllersWithViews();
            services.AddRazorPages();
+
+        // Added while doing MVC
+        services.AddHttpClient();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -66,5 +70,6 @@ namespace lab3.Mvc
                 endpoints.MapRazorPages();
             });
         }
+
     }
 }

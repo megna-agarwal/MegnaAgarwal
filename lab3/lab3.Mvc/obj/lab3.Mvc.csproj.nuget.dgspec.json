@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\megna\\lab3\\lab3.Mvc\\lab3.Mvc.csproj": {}
+    "D:\\Megna\\lab3\\lab3.Mvc\\lab3.Mvc.csproj": {}
   },
   "projects": {
-    "D:\\megna\\lab3\\lab3.Mvc\\lab3.Mvc.csproj": {
+    "D:\\Megna\\lab3\\lab3.Mvc\\lab3.Mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\megna\\lab3\\lab3.Mvc\\lab3.Mvc.csproj",
+        "projectUniqueName": "D:\\Megna\\lab3\\lab3.Mvc\\lab3.Mvc.csproj",
         "projectName": "lab3.Mvc",
-        "projectPath": "D:\\megna\\lab3\\lab3.Mvc\\lab3.Mvc.csproj",
+        "projectPath": "D:\\Megna\\lab3\\lab3.Mvc\\lab3.Mvc.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "D:\\megna\\lab3\\lab3.Mvc\\obj\\",
+        "outputPath": "D:\\Megna\\lab3\\lab3.Mvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -55,6 +55,18 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[3.1.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.Net.Http.Formatting.dll": {
+              "target": "Package",
+              "version": "[5.2.3, )"
+            },
+            "System.Text.Encoding": {
+              "target": "Package",
+              "version": "[4.3.0, )"
             }
           },
           "imports": [
